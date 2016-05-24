@@ -1,3 +1,5 @@
+package testing;
+
 import java.util.Scanner;
 import framework.*;
 import states.StateStart;
